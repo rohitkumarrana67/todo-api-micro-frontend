@@ -1,0 +1,2 @@
+class Do < Todo
+end

@@ -1,0 +1,2 @@
+class Progress < Todo
+end
